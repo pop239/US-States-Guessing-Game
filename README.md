@@ -4,7 +4,7 @@ A Python game where players guess US states using an interactive map.
 ![US States Guessing Game]
 (blank_states_img.gif)
 
-🇺🇸 US States Guessing Game
+US States Guessing Game
 
 A Python game where players try to guess the 50 US states using an interactive map.
 
